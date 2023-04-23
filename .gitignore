@@ -1,0 +1,5 @@
+venv
+*.zip
+python
+lib
+.idea
